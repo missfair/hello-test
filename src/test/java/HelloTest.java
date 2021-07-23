@@ -12,4 +12,5 @@ class HelloTest {
         String actualResult = hello.sawadee(name);
         assertEquals("Hello Eig", actualResult);
     }
+
 }
